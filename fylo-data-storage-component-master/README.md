@@ -4,23 +4,18 @@
 
 ### Screenshot
 
-## Desktop Preview (hp EliteBook)
+## Desktop Preview
 
-![Uploading screencapture-127-0-0-1-5500-order-summary-component-main-index-html-2024-02-17-22_40_33.png…]()
-
+![screencapture-127-0-0-1-5500-fylo-data-storage-component-master-index-html-2024-02-18-22_41_23](https://github.com/noorrijja/Flyo-Data-Storage-Component/assets/144622904/87162706-e93a-49fa-8b06-b604d53d025c)
 
 ## Mobile Preview(iphone 6)
 
-![Uploading screencapture-127-0-0-1-5500-order-summary-component-main-index-html-2024-02-17-22_41_00.png…]()
+![screencapture-127-0-0-1-5500-fylo-data-storage-component-master-index-html-2024-02-18-22_20_05](https://github.com/noorrijja/Flyo-Data-Storage-Component/assets/144622904/0724c446-0ff4-4a0c-acdd-45b7af22eca6)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS
-
-### What I learned
-
-- learned a little more about responsive designs min(), max(), and clamp() functions.
 
 ### Continued development
 
